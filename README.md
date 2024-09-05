@@ -17,9 +17,9 @@ Este projeto demonstra a manipulação de dados em um banco de dados SQLite util
 - **SQLite**: Sistema de gerenciamento de banco de dados usado para armazenar os dados.
 - **JDBC**: API Java para conectar e executar comandos SQL em um banco de dados.
 
-1. Compilar o Código
+1. Compilar o Código:
 javac -cp "lib/sqlite-jdbc-<version>.jar" src/main/java/com/crud/DatabaseManager.java
 
-2. Executar o Código
+2. Executar o Código:
 java -cp "lib/sqlite-jdbc-<version>.jar;src/main/java" com.crud.DatabaseManager
 
